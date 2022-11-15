@@ -1,8 +1,8 @@
 function d3Draw(dataset){
 
 
-Width=300;
-Height=200;
+Width=1500;
+Height=2000;
 var svg= d3.select("body").append("svg")
    .attr("width",Width)
    .attr("Height",Height);
